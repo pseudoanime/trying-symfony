@@ -32,6 +32,11 @@ class ArticleController extends AbstractController
      */
     public function show($slug)
     {
-        return new Response($slug);
+        $comments = ['1', '2', '3'];
+
+        return $this->render('article/show.html.twig', [
+            'title'    => str_replace("-", " ", ucwords($slug)),
+            'comments' => $comments
+        ]);
     }
 }
