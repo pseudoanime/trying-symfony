@@ -22,12 +22,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="article_show.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/js/article_show.js">
+      <file leaf-file-name="ArticleController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Controller/ArticleController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4577823">
-              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-              <folding />
+            <state vertical-scroll-proportion="0.3560529">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="7" />
+              <folding>
+                <element signature="e#34#64#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,9 +52,12 @@
         <option value="$PROJECT_DIR$/templates/base.html.twig" />
         <option value="$PROJECT_DIR$/templates/article/homepage.html.twig" />
         <option value="$PROJECT_DIR$/templates/article/article_show.js" />
+        <option value="$PROJECT_DIR$/config/bundles.php" />
         <option value="$PROJECT_DIR$/templates/article/show.html.twig" />
-        <option value="$PROJECT_DIR$/src/Controller/ArticleController.php" />
         <option value="$PROJECT_DIR$/public/js/article_show.js" />
+        <option value="$PROJECT_DIR$/config/packages/knp_markdown.yaml" />
+        <option value="$PROJECT_DIR$/config/packages/framework.yaml" />
+        <option value="$PROJECT_DIR$/src/Controller/ArticleController.php" />
       </list>
     </option>
   </component>
@@ -245,206 +250,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project.labs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="var" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="log" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project.labs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="var" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cache" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project.labs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="var" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cache" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project.labs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project.labs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project.labs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="article" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project.labs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project.labs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project.labs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project.labs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project.labs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-project.labs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -554,19 +359,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding>
-            <marker date="1539086397000" expanded="true" signature="38:245" placeholder="..." />
-            <marker date="1539086397000" expanded="true" signature="250:309" placeholder=" Class ArticleController ..." />
-            <marker date="1539086397000" expanded="true" signature="362:1133" placeholder="{...}" />
-            <marker date="1539086397000" expanded="true" signature="372:417" placeholder=" @Route(&quot;/&quot;,name=&quot;app_homepage&quot;) ..." />
-            <marker date="1539086397000" expanded="true" signature="450:590" placeholder="{...}" />
-            <marker date="1539086397000" expanded="true" signature="487:582" placeholder="..." />
-            <marker date="1539086397000" expanded="true" signature="518:581" placeholder="..." />
-            <marker date="1539086397000" expanded="true" signature="599:667" placeholder=" show ..." />
-            <marker date="1539086397000" expanded="true" signature="701:889" placeholder="{...}" />
-            <marker date="1539086397000" expanded="true" signature="775:881" placeholder="..." />
-            <marker date="1539086397000" expanded="true" signature="802:880" placeholder="..." />
-            <marker date="1539086397000" expanded="true" signature="898:1016" placeholder=" toggle_heart ..." />
-            <marker date="1539086397000" expanded="true" signature="1058:1131" placeholder="{...}" />
+            <element signature="e#34#64#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -645,26 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/bundles.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1538999290000" expanded="true" signature="15:1072" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/packages/twig.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1538999290000" expanded="true" signature="0:123" placeholder="twig:" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -684,14 +457,6 @@
             <marker date="1539006603000" expanded="true" signature="325:746" placeholder="..." />
             <marker date="1539006603000" expanded="true" signature="421:739" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/var/log/dev.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.87283826">
-          <caret line="129" column="250" selection-start-line="129" selection-start-column="250" selection-end-line="129" selection-end-column="250" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,23 +504,23 @@
         <state vertical-scroll-proportion="0.4069176">
           <caret line="16" column="31" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="31" />
           <folding>
-            <marker date="1539014402000" expanded="true" signature="0:2301" placeholder="{&quot;type&quot;: &quot;project&quot;...}" />
-            <marker date="1539014402000" expanded="true" signature="70:775" placeholder="{&quot;php&quot;: &quot;^7.1.3&quot;...}" />
-            <marker date="1539014402000" expanded="true" signature="796:1214" placeholder="{&quot;easycorp/easy-log-handler&quot;: &quot;^1.0.7&quot;...}" />
-            <marker date="1539014402000" expanded="true" signature="1230:1333" placeholder="{&quot;sort-packages&quot;: true...}" />
-            <marker date="1539014402000" expanded="true" signature="1261:1296" placeholder="{&quot;*&quot;: &quot;dist&quot;...}" />
-            <marker date="1539014402000" expanded="true" signature="1351:1415" placeholder="{...}" />
-            <marker date="1539014402000" expanded="true" signature="1370:1409" placeholder="{&quot;App\&quot;: &quot;src/&quot;...}" />
-            <marker date="1539014402000" expanded="true" signature="1437:1510" placeholder="{...}" />
-            <marker date="1539014402000" expanded="true" signature="1456:1504" placeholder="{&quot;App\Tests\&quot;: &quot;tests/&quot;...}" />
-            <marker date="1539014402000" expanded="true" signature="1527:1770" placeholder="{&quot;paragonie/random_compat&quot;: &quot;2.*&quot;...}" />
-            <marker date="1539014402000" expanded="true" signature="1787:2123" placeholder="{...}" />
-            <marker date="1539014402000" expanded="true" signature="1813:1980" placeholder="{&quot;cache:clear&quot;: &quot;symfony-cmd&quot;...}" />
-            <marker date="1539014402000" expanded="true" signature="2010:2049" placeholder="[...]" />
-            <marker date="1539014402000" expanded="true" signature="2078:2117" placeholder="[...]" />
-            <marker date="1539014402000" expanded="true" signature="2141:2179" placeholder="{&quot;symfony/symfony&quot;: &quot;*&quot;...}" />
-            <marker date="1539014402000" expanded="true" signature="2194:2299" placeholder="{...}" />
-            <marker date="1539014402000" expanded="true" signature="2215:2293" placeholder="{&quot;allow-contrib&quot;: false...}" />
+            <marker date="1539095358000" expanded="true" signature="0:2348" placeholder="{&quot;type&quot;: &quot;project&quot;...}" />
+            <marker date="1539095358000" expanded="true" signature="70:822" placeholder="{&quot;php&quot;: &quot;^7.1.3&quot;...}" />
+            <marker date="1539095358000" expanded="true" signature="843:1261" placeholder="{&quot;easycorp/easy-log-handler&quot;: &quot;^1.0.7&quot;...}" />
+            <marker date="1539095358000" expanded="true" signature="1277:1380" placeholder="{&quot;sort-packages&quot;: true...}" />
+            <marker date="1539095358000" expanded="true" signature="1308:1343" placeholder="{&quot;*&quot;: &quot;dist&quot;...}" />
+            <marker date="1539095358000" expanded="true" signature="1398:1462" placeholder="{...}" />
+            <marker date="1539095358000" expanded="true" signature="1417:1456" placeholder="{&quot;App\&quot;: &quot;src/&quot;...}" />
+            <marker date="1539095358000" expanded="true" signature="1484:1557" placeholder="{...}" />
+            <marker date="1539095358000" expanded="true" signature="1503:1551" placeholder="{&quot;App\Tests\&quot;: &quot;tests/&quot;...}" />
+            <marker date="1539095358000" expanded="true" signature="1574:1817" placeholder="{&quot;paragonie/random_compat&quot;: &quot;2.*&quot;...}" />
+            <marker date="1539095358000" expanded="true" signature="1834:2170" placeholder="{...}" />
+            <marker date="1539095358000" expanded="true" signature="1860:2027" placeholder="{&quot;cache:clear&quot;: &quot;symfony-cmd&quot;...}" />
+            <marker date="1539095358000" expanded="true" signature="2057:2096" placeholder="[...]" />
+            <marker date="1539095358000" expanded="true" signature="2125:2164" placeholder="[...]" />
+            <marker date="1539095358000" expanded="true" signature="2188:2226" placeholder="{&quot;symfony/symfony&quot;: &quot;*&quot;...}" />
+            <marker date="1539095358000" expanded="true" signature="2241:2346" placeholder="{...}" />
+            <marker date="1539095358000" expanded="true" signature="2262:2340" placeholder="{&quot;allow-contrib&quot;: false...}" />
           </folding>
         </state>
       </provider>
@@ -795,82 +560,123 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Controller/ArticleController.php">
+    <entry file="file://$PROJECT_DIR$/var/log/dev.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7456765">
-          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <marker date="1539086397000" expanded="true" signature="38:245" placeholder="..." />
-            <marker date="1539086397000" expanded="true" signature="250:309" placeholder=" Class ArticleController ..." />
-            <marker date="1539086397000" expanded="true" signature="362:1133" placeholder="{...}" />
-            <marker date="1539086397000" expanded="true" signature="372:417" placeholder=" @Route(&quot;/&quot;,name=&quot;app_homepage&quot;) ..." />
-            <marker date="1539086397000" expanded="true" signature="450:590" placeholder="{...}" />
-            <marker date="1539086397000" expanded="true" signature="487:582" placeholder="..." />
-            <marker date="1539086397000" expanded="true" signature="518:581" placeholder="..." />
-            <marker date="1539086397000" expanded="true" signature="599:667" placeholder=" show ..." />
-            <marker date="1539086397000" expanded="true" signature="701:889" placeholder="{...}" />
-            <marker date="1539086397000" expanded="true" signature="775:881" placeholder="..." />
-            <marker date="1539086397000" expanded="true" signature="802:880" placeholder="..." />
-            <marker date="1539086397000" expanded="true" signature="898:1016" placeholder=" toggle_heart ..." />
-            <marker date="1539086397000" expanded="true" signature="1058:1131" placeholder="{...}" />
-          </folding>
+        <state vertical-scroll-proportion="0.36419126">
+          <caret line="100" column="81" selection-start-line="100" selection-start-column="81" selection-end-line="100" selection-end-column="81" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/article/show.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4079349">
-          <caret line="24" column="84" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="84" />
+        <state vertical-scroll-proportion="0.6103764">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
           <folding>
-            <marker date="1539086125000" expanded="true" signature="32:106" placeholder="{% block title ...%}" />
-            <marker date="1539086125000" expanded="true" signature="155:8179" placeholder="{% block body ...%}" />
-            <marker date="1539086125000" expanded="true" signature="199:8162" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="225:8151" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="261:8136" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="323:8117" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="361:1565" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="409:1538" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="614:1507" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="834:1026" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="881:1005" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="1177:1472" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="1346:1436" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="1603:5417" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="1651:5390" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="1706:5359" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="1742:2286" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="2323:3064" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="3101:3822" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="3859:4707" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="4744:5324" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="5455:5930" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="5503:5903" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="5560:5872" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="5596:5675" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="5719:5796" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="5968:8094" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="6016:8067" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="6203:7119" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="6259:7084" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="6336:6427" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="6525:7045" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="6675:6902" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="6781:6855" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="7150:8036" placeholder="{% for comment in comments ...%}" />
-            <marker date="1539086125000" expanded="true" signature="7228:7994" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="7288:7955" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="7369:7460" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="7562:7912" placeholder="..." />
-            <marker date="1539086125000" expanded="true" signature="8181:8301" placeholder="{% block javascripts ...%}" />
+            <marker date="1539096164000" expanded="true" signature="32:106" placeholder="{% block title ...%}" />
+            <marker date="1539096164000" expanded="true" signature="155:4606" placeholder="{% block body ...%}" />
+            <marker date="1539096164000" expanded="true" signature="199:4589" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="225:4578" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="261:4563" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="323:4544" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="361:1565" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="409:1538" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="614:1507" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="834:1026" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="881:1005" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="1177:1472" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="1346:1436" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="1603:1844" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="1651:1817" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="1706:1786" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="1882:2357" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="1930:2330" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="1987:2299" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="2023:2102" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="2146:2223" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="2395:4521" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="2443:4494" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="2630:3546" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="2686:3511" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="2763:2854" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="2952:3472" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="3102:3329" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="3208:3282" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="3577:4463" placeholder="{% for comment in comments ...%}" />
+            <marker date="1539096164000" expanded="true" signature="3655:4421" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="3715:4382" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="3796:3887" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="3989:4339" placeholder="..." />
+            <marker date="1539096164000" expanded="true" signature="4608:4728" placeholder="{% block javascripts ...%}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/article_show.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4577823">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-          <folding />
+        <state vertical-scroll-proportion="0.3051882">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1539096549000" expanded="true" signature="0:50" placeholder="/** Created by lbalakrishnan on 09/10/2018. ...*/" />
+            <marker date="1539096549000" expanded="true" signature="82:469" placeholder="{...}" />
+            <marker date="1539096549000" expanded="true" signature="136:465" placeholder="{...}" />
+            <marker date="1539096549000" expanded="true" signature="289:364" placeholder="{&quot;method&quot;: 'POST'...}" />
+            <marker date="1539096549000" expanded="true" signature="387:457" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/bundles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38148525">
+          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+          <folding>
+            <marker date="1539095363000" expanded="true" signature="15:1147" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/twig.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1538999290000" expanded="true" signature="0:123" placeholder="twig:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/knp_markdown.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07629705">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1539182678000" expanded="true" signature="0:58" placeholder="knp_markdown:" />
+            <marker date="1539182678000" expanded="true" signature="16:58" placeholder="parser:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/framework.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3051882">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <marker date="1539185012000" expanded="true" signature="0:942" placeholder="framework:" />
+            <marker date="1539185012000" expanded="true" signature="311:362" placeholder="session:" />
+            <marker date="1539185012000" expanded="true" signature="383:413" placeholder="php_errors:" />
+            <marker date="1539185012000" expanded="true" signature="418:942" placeholder="cache:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/ArticleController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3560529">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="e#34#64#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
